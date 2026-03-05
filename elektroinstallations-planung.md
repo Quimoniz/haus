@@ -4,6 +4,7 @@
 
 ![Plan Dachgeschoss](./konrad_plan_untergeschoss.png)
 ### Zählerschrank
+- Im Flur/Treppenhaus im "Kellergeschoss"
 - Großräumig: Platz für 5 Zähler
 - Verbau von 4 Zählern (3 Wohn-Einheiten, 1 Haus-Strom)
 - Entspr. örtlicher TAB (Technische Aufschaltbedingungen für Brandmeldeanlagen)
