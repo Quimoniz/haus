@@ -1,4 +1,5 @@
 # Auftragsbeschreibung Elektro-Arbeiten
+- Zwei Bau-Abschnitte;
 
 ## Bau-Abschnitt 1 "Arkani" (2. Quartal 2026)
 
@@ -7,7 +8,7 @@
 - Im Flur/Treppenhaus im "Kellergeschoss"
 - Großräumig: Platz für 5 Zähler
 - Verbau von 4 Zählern (3 Wohn-Einheiten, 1 Haus-Strom)
-- Entspr. örtlicher TAB (Technische Aufschaltbedingungen für Brandmeldeanlagen)
+- Koordination mit örtlichem Energieversorger/Stadtwerke, sowie entspr. örtlicher TAB (Technische Aufschaltbedingungen für Brandmeldeanlagen)
 - Blitzschutz-/Ableitung
 - Inkl. RJ45-Buchse
 
