@@ -55,3 +55,5 @@ dito wie oben
 
 ## Anzahl Beleuchtungs-Anschlüsse + Steckdosen
 ![Tabelle der erforderlichen Steckdosen](./steckdosen-anfordernisse-nach-din-18015.PNG)
+
+[Link zum Standard](https://assets.sc.hager.com/de/-/media/project/hagerdeep/deutschland/hager/b2b-de/documents/hagertipps/23de0014-tip-hagertipp-21-web.pdf?la=de-de&hash=EA21A82429E22CD026F84A76F12B4DBA)
