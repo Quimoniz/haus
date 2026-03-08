@@ -16,12 +16,13 @@
 ### Sprechanlage
 - Nur Audioell 
 
+![Plan Erdgeschoss](./konrad_plan_erdgeschoss.png)
 ### WE1 (Erdgeschoss)
 - Verlegung Datenkabel (Cat 8)
 - Wohnzimmer-Südseite (neues Zimmer): Deckenlampe; SchuKo-Steckdosen
 - Leitungen f. Wintergarten (Deckenlampe)
 
-### Vorbereitung Wallbox in der Garage; Verlegung z.T. Auf-Putz
+### Erdgeschoss/Vorbereitung Wallbox in der Garage; Verlegung z.T. Auf-Putz
 - Verlegung 6 mm² Stromkabel (d.h. geeignet für 22kW)
 
 ### Abschluss Bau-Abschnitt Arkani
@@ -45,3 +46,4 @@ Neuverkabelung (Telefon-, Fernseh- und Daten-Kabel (wieder Cat 8))
 
 ### Abschluss Bau-Abschnitt Bisasam
 dito wie oben
+
